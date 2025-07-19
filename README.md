@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzirulislam22" alt="tanzirulislam22" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structure & Algorithm.**
+- 🔭 I’m currently working on **Algorithms.**
 
 - 🌱 I’m currently learning **DSA, OOP & Cyber Security.**
 
