@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzirulislam22&label=Profile%20views&color=0e75b6&style=flat" alt="tanzirulislam22" /> </p>
 
-- 🔭 I’m currently working on **JavaScript & CP**
+- 🔭 I’m currently working on **JavaScript & Competitive Programming**
 
 - 🌱 I’m currently learning **Assembly Language & Algorithms**
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 💬 Ask me about **CP & Development**
+- 💬 Ask me about **Competitive Programming & Development**
 
 - 📫 How to reach me **tanzirul.islam56@gmail.com**
 
