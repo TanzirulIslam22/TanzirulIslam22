@@ -1,3 +1,4 @@
+
 <!-- ================= HEADER ================= -->
 <div align="center">
 
@@ -32,13 +33,13 @@
 
 I'm a CSE undergraduate at **RUET**, building my path as an **AI Engineer** with a core focus on **Agentic AI and autonomous systems**.
 
-I build systems that **actually take action**: tool-using agents, multi-agent workflows, and RAG pipelines with **Python, FastAPI, and LangGraph**. Alongside building, I research **safety, guardrails, and reliability** so autonomous agents don't cause unintended execution.
+I build systems that **actually take action**: tool-using agents, multi-agent workflows, and RAG pipelines with **Python, FastAPI, LangGraph, and LangSmith**. Alongside building, I research **safety, guardrails, and reliability** so autonomous agents don't cause unintended execution.
 
 ```python
 class TanzirulIslam:
     role    = "AI Engineer (in the making)"
     focus   = ["Agentic AI", "Multi-Agent Workflows", "RAG", "AI Safety & Guardrails"]
-    stack   = ["Python", "FastAPI", "LangGraph", "JavaScript"]
+    stack   = ["Python", "FastAPI", "LangGraph", "LangSmith", "MERN Stack"]
     mission = "Build AI systems that take action, safely and reliably."
     open_to = ["AI internships", "Freelance agentic AI builds", "Agent-based product collabs"]
 ```
@@ -80,10 +81,11 @@ class TanzirulIslam:
 <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch&theme=dark"/>
 <img src="https://img.shields.io/badge/LangGraph-0b1220?style=flat-square&logo=langchain&logoColor=7dd3fc&color=1e3a5f"/>
 <img src="https://img.shields.io/badge/LangChain-0b1220?style=flat-square&logo=langchain&logoColor=7dd3fc&color=1e3a5f"/>
+<img src="https://img.shields.io/badge/LangSmith-0b1220?style=flat-square&logo=langchain&logoColor=7dd3fc&color=1e3a5f"/>
 
 <br/>
 
-<sub><b>WEB & BACKEND</b></sub><br/>
+<sub><b>WEB & BACKEND (MERN STACK)</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,html,css,tailwind&theme=dark"/>
 
 <br/>
@@ -95,6 +97,7 @@ class TanzirulIslam:
 
 <sub><b>CORE & TOOLS</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,linux,vscode,figma&theme=dark"/>
+<a href="https://linkedin.com/in/tanzirulislam22"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0b1220&color=1e3a5f"/></a>
 
 </div>
 
